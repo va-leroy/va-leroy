@@ -21,9 +21,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Java_FX-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Coq-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"/></a>
 </div>
 
 <br>
@@ -53,6 +54,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/></a>
+  <!-- PHP (NOT USED ANYMORE) -->
+  <!--
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white"/></a>
+  -->
 </div>
 
 <!-- OPERATING SYSTEMS (DELETED) -->
