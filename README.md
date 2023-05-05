@@ -1,12 +1,12 @@
 <!-- TITLES -->
 <h1 align="center">No more panic, Valentin is back! 🤙🏼</h1>
-<h4 align="center">21-year old French student, in his 4th year of Computer Science higher studies (i.e. CS Master 1) at the University of Bordeaux. Speaks perfect English and French, learned Spanish and is currently learning Modern Standard Arabic.</h4>
+<h4 align="center">21-year old French student, in his 4th year of Computer Science higher studies (i.e. CS Master 1) at the University of Bordeaux.</h4>
 
 <!-- ACTIVITY -->
 ## **🗼 Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=va-leroy&count_private=true&bg_color=,8795EF,39E5B6&show_icons=true&title_color=fff&text_color=fff&icon_color=fff">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=va-leroy&count_private=true&bg_color=,833AB4,FD1D1D,FCB045&show_icons=true&title_color=fff&text_color=fff&icon_color=fff">
 </div>
 
 <!-- LANGUAGES AND FRAMEWORKS -->
@@ -21,7 +21,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Java_FX-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Coq-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"/></a>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFDD55"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-14354C?style=for-the-badge&logo=numpy&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Matplotlib-14354C?style=for-the-badge&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
