@@ -1,6 +1,6 @@
 <!-- TITLES -->
 <h1 align="center">No more panic, Valentin is back! 🤙🏼</h1>
-<h4 align="center">21-year old French student, in his 4th year of Computer Science higher studies (i.e. CS Master 1) at the University of Bordeaux.</h4>
+<h4 align="center">21-year old French student in his 5th year of Computer Science higher studies (i.e. CS Master 2) at the University of Bordeaux.</h4>
 
 <!-- ACTIVITY -->
 ## **🗼 Activity**
