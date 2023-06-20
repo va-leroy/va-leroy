@@ -51,6 +51,7 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/></a>
