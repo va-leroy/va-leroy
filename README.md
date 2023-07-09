@@ -2,13 +2,7 @@
 <h1 align="center">No more panic, Valentin is back! 🤙🏼</h1>
 <h4 align="center">21-year old French student in his 5th year of Computer Science higher studies (i.e. CS Master 2) at the University of Bordeaux.</h4>
 
-<!-- ACTIVITY -->
-## **🗼 Activity**
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=va-leroy&count_private=true&bg_color=,833AB4,FD1D1D,FCB045&show_icons=true&title_color=fff&text_color=fff&icon_color=fff">
-</div>
-
+<!-- ACTIVITY (DELETED) -->
 <!-- LANGUAGES AND FRAMEWORKS -->
 ## **👓 Languages and frameworks**
 
