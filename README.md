@@ -1,8 +1,12 @@
 <!-- TITLES -->
 <h1 align="center">No more panic, Valentin is back! 🤙🏼</h1>
-<h4 align="center">21-year old French student in his 5th year of Computer Science higher studies (i.e. CS Master 2) at the University of Bordeaux.</h4>
 
-<!-- ACTIVITY (DELETED) -->
+<!-- INTRODUCTION -->
+- 👋🏼 I'm a 21-year old French student
+- 🌱 Currently in my 5th year of Computer Science higher studies **(i.e. CS Master 2)** at the University of Bordeaux
+- 👀 Interested in **Software Engineering**, **Machine Learning** and **Web Development**
+- 🐚 Speaks proficiently **French** and **English**, I learned **Spanish** in the past and I'm currently learning two other languages
+
 <!-- LANGUAGES AND FRAMEWORKS -->
 ## **👓 Languages and frameworks**
 
@@ -49,12 +53,4 @@
   <a href="#"><img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/></a>
-  <!-- PHP (NOT USED ANYMORE) -->
-  <!--
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white"/></a>
-  -->
 </div>
-
-<!-- OPERATING SYSTEMS (DELETED) -->
-<!-- INTERESTS (DELETED) -->
