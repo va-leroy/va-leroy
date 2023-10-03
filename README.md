@@ -2,10 +2,10 @@
 <h1 align="center">No more panic, Valentin is back! 🤙🏼</h1>
 
 <!-- INTRODUCTION -->
-- 👋🏼 I'm a 21-year old French student
-- 🌱 Currently in my 5th year of Computer Science higher studies **(i.e. CS Master 2)** at the University of Bordeaux
-- 👀 Interested in **Software Engineering**, **Machine Learning** and **Web Development**
-- 🐚 Speaks proficiently **French** and **English**, I learned **Spanish** in the past and I'm currently learning two other languages
+- 👋🏼 I'm a 22-year old French **student** and **passionate developer**
+- 🌱 Currently in my **5th year of Computer Science** higher studies **(i.e. CS Master 2)** at the University of Bordeaux
+- 👀 Mostly interested in **Software Engineering** but I do enjoy **Machine Learning**, **Artificial Intelligence** and **Web Development**
+- 🐚 Speaks proficiently **French** and **English**, I learned **Spanish** in the past and I'm currently learning more languages
 
 <!-- LANGUAGES AND FRAMEWORKS -->
 ## **👓 Languages and frameworks**
@@ -18,7 +18,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Java_FX-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache_Hadoop-33BBFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
@@ -45,6 +48,7 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
