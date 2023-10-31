@@ -4,8 +4,9 @@
 <!-- INTRODUCTION -->
 - 👋🏼 I'm a 22-year old French **student** and **passionate developer**
 - 🌱 Currently in my **5th year of Computer Science** higher studies **(i.e. CS Master 2)** at the University of Bordeaux
-- 👀 Mostly interested in **Software Engineering** but I do enjoy **Machine Learning**, **Artificial Intelligence** and **Web Development**
+- 👀 Mostly interested in **Software Engineering** and **Web Development**, but I do enjoy **Machine Learning**, **Artificial Intelligence** and **Data Science**
 - 🐚 Speaks proficiently **French** and **English**, I learned **Spanish** in the past and I'm currently learning more languages
+- 🎯 Currently looking for a **4-month internship** starting in **April 2023** in **Software Engineering** or **Web Development**
 
 <!-- LANGUAGES AND FRAMEWORKS -->
 ## **👓 Languages and frameworks**
