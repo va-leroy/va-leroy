@@ -6,7 +6,7 @@
 - 🌱 Currently in my **5th year of Computer Science** higher studies **(i.e. CS Master 2)** at the University of Bordeaux
 - 👀 Mostly interested in **Software Engineering** and **Web Development**, but I do enjoy **Machine Learning**, **Artificial Intelligence** and **Data Science**
 - 🐚 Speaks proficiently **French** and **English**, I learned **Spanish** in the past and I'm currently learning more languages
-- 🎯 Currently looking for a **4-month internship** starting in **April 2023** in **Software Engineering** or **Web Development**
+- 🎯 Currently looking for a **4 to 6 months internship** starting in early **April 2024** in **Software Engineering** or **Web Development**
 
 <!-- LANGUAGES AND FRAMEWORKS -->
 ## **👓 Languages and frameworks**
@@ -58,4 +58,13 @@
   <a href="#"><img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/></a>
+</div>
+
+<!-- CURRENTLY LEARNING -->
+## **💌 Currently learning**
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/></a>
 </div>
