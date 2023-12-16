@@ -5,7 +5,7 @@
 - 👋🏼 I'm a 22-year old French **student** and **passionate developer**
 - 🌱 Currently in my **5th year of Computer Science** higher studies **(i.e. CS Master 2)** at the University of Bordeaux
 - 👀 Mostly interested in **Software Engineering** and **Web Development**, but I do enjoy **Machine Learning**, **Artificial Intelligence** and **Data Science**
-- 🐚 Speaks proficiently **French** and **English**, I learned **Spanish** in the past and I'm currently learning more languages
+- 🐚 Speaks proficiently **French** and **English**, learned **Spanish** in the past and currently learning more languages
 - 🎯 Currently looking for a **4 to 6 months internship** starting in early **April 2024** in **Software Engineering** or **Web Development**
 
 <!-- LANGUAGES AND FRAMEWORKS -->
@@ -20,13 +20,13 @@
   <a href="#"><img src="https://img.shields.io/badge/Java_FX-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Hadoop-33BBFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <!-- NOT PRACTICING THESE VERY MUCH ANYMORE, I'M A BIT RUSTY NOW -->
+  <!--
+  <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Coq-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"/></a>
+  -->
 </div>
 
 <br>
@@ -58,6 +58,16 @@
   <a href="#"><img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/></a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache_Hadoop-33BBFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/></a>
 </div>
 
 <!-- CURRENTLY LEARNING -->
@@ -65,6 +75,8 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
 </div>
