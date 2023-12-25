@@ -6,7 +6,7 @@
 - 🌱 Currently in my **5th year of Computer Science** higher studies **(i.e. CS Master 2)** at the University of Bordeaux
 - 👀 Mostly interested in **Software Engineering** and **Web Development**, but I do enjoy **Machine Learning**, **Artificial Intelligence** and **Data Science**
 - 🐚 Speaks proficiently **French** and **English**, learned **Spanish** in the past and currently learning more languages
-- 🎯 Currently looking for a **4 to 6 months internship** starting in early **April 2024** in **Software Engineering** or **Web Development**
+- 🎯 Just found a **6 months internship** starting in early **April 2024** in **Software Engineering** and **Web Development**
 
 <!-- LANGUAGES AND FRAMEWORKS -->
 ## **👓 Languages and frameworks**
@@ -14,7 +14,7 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Java_FX-ED8B00?style=for-the-badge&logo=oracle&logoColor=white"/></a>
@@ -50,6 +50,7 @@
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mantine_UI-339AF0?style=for-the-badge&logo=mantine&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
@@ -64,7 +65,7 @@
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache_Hadoop-33BBFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/></a>
